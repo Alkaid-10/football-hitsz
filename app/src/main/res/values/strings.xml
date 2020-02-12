@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hitsz-足球</string>
+
+    <string-array name="teams">
+        <item>选择队伍</item>
+        <item>计算机科学与技术</item>
+        <item>自动化</item>
+        <item>机械</item>
+        <item>材料</item>
+        <item>电信</item>
+        <item>土木环境</item>
+        <item>经济建筑</item>
+        <item>电气理学</item>
+    </string-array>
+
+    <string-array name="testArray">
+        <item>球员名： </item>
+        <item>队伍：</item>
+        <item>号码：</item>
+        <item>进球：</item>
+        <item>助攻：</item>
+        <item>场均评分：</item>
+    </string-array>
+</resources>
